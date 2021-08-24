@@ -1,7 +1,7 @@
-# Welcome to Ethan Hu's GitHub
+# Welcome to my GitHub!
 
-## View [My Resume](https://ethanhu.dev) 
+## View [My Resume](https://github.com/ethanhu99/resume) 
 
 ## Profile
 
-sadfsdsds
+
